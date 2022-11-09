@@ -1,0 +1,14 @@
+Synonyms:
+  mRNA:transcript
+  5UTR:5'UTR
+  five_prime_UTR:5'UTR
+  3UTR:3'UTR
+  three_prime_UTR:3'UTR
+Introns:
+  tRNAscan-SE:tRNA
+Vicinity:
+  *:gene
+Order:
+  *:intron
+  *:upstream,*:downstream
+  
